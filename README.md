@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tervia Corporation™
 
-<!--
-**tervia-corporation/tervia-corporation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent digital company focused on interactive software, original projects, and long-term intellectual property development.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Divisions
+
+### Tervia Interactive™
+Game development and interactive experiences.
+
+### Tervia Labs™
+Research, experimentation, and technical systems.
+
+### Tervia Publishing™
+Distribution and brand management.
+
+---
+
+## Philosophy
+
+We build structured, scalable, and identity-driven digital products.  
+Every project under Tervia is designed with long-term vision in mind.
+
+---
+
+## Current Focus
+
+- Independent game development  
+- Engine and system experimentation  
+- Original IP creation  
+
+---
+
+© 2026 Tervia Corporation. All rights reserved.
